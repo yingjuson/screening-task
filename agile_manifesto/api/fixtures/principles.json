@@ -1,0 +1,98 @@
+[
+    {
+        "model": "api.principle",
+        "pk": 1,
+        "fields": {
+            "title": "Principle #1",
+            "text": "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."
+        }
+    },
+    {
+        "model": "api.principle",
+        "pk": 2,
+        "fields": {
+            "title": "Principle #2",
+            "text": "Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage."
+        }
+    },
+    {
+        "model": "api.principle",
+        "pk": 3,
+        "fields": {
+            "title": "Principle #3",
+            "text": "Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale."
+        }
+    },
+    {
+        "model": "api.principle",
+        "pk": 4,
+        "fields": {
+            "title": "Principle #4",
+            "text": "Business people and developers must work together daily throughout the project."
+        }
+    },
+    {
+        "model": "api.principle",
+        "pk": 5,
+        "fields": {
+            "title": "Principle #5",
+            "text": "Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done."
+        }
+    },
+    {
+        "model": "api.principle",
+        "pk": 6,
+        "fields": {
+            "title": "Principle #6",
+            "text": "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation."
+        }
+    },
+    {
+        "model": "api.principle",
+        "pk": 7,
+        "fields": {
+            "title": "Principle #7",
+            "text": "Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely."
+        }
+    },
+    {
+        "model": "api.principle",
+        "pk": 8,
+        "fields": {
+            "title": "Principle #8",
+            "text": "Continuous attention to technical excellence and good design enhances agility."
+        }
+    },
+    {
+        "model": "api.principle",
+        "pk": 9,
+        "fields": {
+            "title": "Principle #9",
+            "text": "Simplicity--the art of maximizing the amount of work not done--is essential."
+        }
+    },
+    {
+        "model": "api.principle",
+        "pk": 10,
+        "fields": {
+            "title": "Principle #10",
+            "text": "The best architectures, requirements, and designs emerge from self-organizing teams."
+        }
+    },
+    {
+        "model": "api.principle",
+        "pk": 11,
+        "fields": {
+            "title": "Principle #11",
+            "text": "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly."
+        }
+    },
+    {
+        "model": "api.principle",
+        "pk": 12,
+        "fields": {
+            "title": "Principle #12",
+            "text": "Responding to change over following a plan"
+        }
+    }
+]
